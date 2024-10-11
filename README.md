@@ -1,1 +1,1 @@
-# l-gica
+Lógica
